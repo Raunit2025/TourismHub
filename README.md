@@ -74,5 +74,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-**Raunit Raj** — [LinkedIn](https://www.linkedin.com/in/raunit-raj/)  
+**Raunit Raj** — [LinkedIn](https://www.linkedin.com/in/raunitraj/)  
 Computer Science & Engineering student, Lovely Professional University
