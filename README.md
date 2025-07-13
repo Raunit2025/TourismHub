@@ -68,10 +68,6 @@ TourismHub is a Laravel-based Tourism Marketplace Platform that connects travele
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](LICENSE)
-
 ## Author
 
 **Raunit Raj** — [LinkedIn](https://www.linkedin.com/in/raunitraj/)  
